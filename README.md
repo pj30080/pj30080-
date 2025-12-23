@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img algin="right" alt="coding" width="400" scr="https://in.pinterest.com/pin/13440498882312191/"
-/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pj30080" alt="pj30080" /></a> </p>
+<img width="220" height="124" alt="image" src="https://github.com/user-attachments/assets/633b41f7-539f-41f7-abf2-6acb5fe74600" />
+
+
+<p>
+  <a href="https://github.com/pj30080/Jyoti-Sharma" target="_blank">
+    🔗 My GitHub Project – Jyoti-Sharma
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/jyotip72029" target="blank"><img src="https://img.shields.io/twitter/follow/jyotip72029?logo=twitter&style=for-the-badge" alt="jyotip72029" /></a> </p>
 
