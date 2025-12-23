@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img width="220" height="124" alt="image" src="https://github.com/user-attachments/assets/633b41f7-539f-41f7-abf2-6acb5fe74600" />
+<p align="right"></p><img width="220" height="217" alt="image" src="https://github.com/user-attachments/assets/a1e5da0f-08ae-417d-915a-56a9eb842b9d" /></p>
+
 
 
 <p>
