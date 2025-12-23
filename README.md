@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<p align="right"></p><img width="220" height="217" alt="image" src="https://github.com/user-attachments/assets/a1e5da0f-08ae-417d-915a-56a9eb842b9d" /></p>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d114408b-1976-4d41-911b-8027bffb8226" />
 
-
-
+  
 <p>
   <a href="https://github.com/pj30080/Jyoti-Sharma" target="_blank">
     🔗 My GitHub Project – Jyoti-Sharma
