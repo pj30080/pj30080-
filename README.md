@@ -1,3 +1,4 @@
+![logo](https://github.com/pj30080/pj30080-/blob/main/A12)
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d114408b-1976-4d41-911b-8027bffb8226" />
